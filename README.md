@@ -61,6 +61,8 @@ The user will get a random recommendation of 3 streams.
 
 ## Details
 
+The application will get the details of streams, streamers, users and save them in a database before the commands are executed.
+
 The application will read the commands from a file given as an argument and will print the results in another file given as an argument.
 
 The results will be printed in a JSON format.
